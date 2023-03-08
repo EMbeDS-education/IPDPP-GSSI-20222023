@@ -47,3 +47,6 @@ jupyter/jupyterNotebooks/covid_more_than_25k.csv
 jupyter/jupyterNotebooks/images/Boris Johnson reminds Merkel to mute during G7 Zoom chat _ ITV News (1080p_25fps_H264-128kbit_AAC).mp4
 jupyter/jupyterNotebooks/images/bettingMarket.png
 jupyter/jupyterNotebooks/images/bettingMarket.pptx
+.DS_Store
+jupyter/.DS_Store
+jupyter/jupyterNotebooks/.DS_Store

@@ -54,3 +54,4 @@ jupyter/jupyterNotebooks/__pycache__/ipdpp_utils.cpython-39.pyc
 jupyter/jupyterNotebooks/.ipynb_checkpoints/Part3_07ProcessMining-checkpoint.ipynb
 jupyter/jupyterNotebooks/.ipynb_checkpoints/Part2_06BreastCancer_Supervised-checkpoint.ipynb
 jupyter/jupyterNotebooks/.ipynb_checkpoints/Part2_05BreastCancer_Unsupervised-checkpoint.ipynb
+.DS_Store

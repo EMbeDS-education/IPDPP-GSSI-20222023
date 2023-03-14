@@ -64,3 +64,5 @@ jupyter/.DS_Store
 jupyter/jupyterNotebooks/.ipynb_checkpoints/Part1_NumPy_Pandas-checkpoint.ipynb
 .DS_Store
 jupyter/jupyterNotebooks/.ipynb_checkpoints/ipdpp_utils-checkpoint.py
+jupyter/jupyterNotebooks/Part1_NumPy_Pandas_old.ipynb
+jupyter/jupyterNotebooks/.ipynb_checkpoints/Part1_NumPy_Pandas_old-checkpoint.ipynb
